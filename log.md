@@ -1,13 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: December 22, 2020 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Learnt some of the properties of Android studio
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I really struggled while setting the image which was not displaying in the emulator or the phone
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** I will provide the app afterwards
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
